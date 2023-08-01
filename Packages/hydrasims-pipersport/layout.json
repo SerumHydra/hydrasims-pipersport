@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/aircraft.cfg",
+      "size": 2151,
+      "date": 133354015434591055
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/cameras.cfg",
+      "size": 74599,
+      "date": 133354015433830738
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/cockpit.cfg",
+      "size": 4256,
+      "date": 133354015433840711
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/engines.cfg",
+      "size": 6077,
+      "date": 133354015434591055
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/flight_model.cfg",
+      "size": 18871,
+      "date": 133354015434581081
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/gameplay.cfg",
+      "size": 1151,
+      "date": 133354015433880591
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/model/BasicAircraft.bin",
+      "size": 36012,
+      "date": 133354016611536653
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/model/BasicAircraft.gltf",
+      "size": 9852,
+      "date": 133354016611546637
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/model/BasicAircraft.xml",
+      "size": 199,
+      "date": 133354015433953455
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/model/model.CFG",
+      "size": 36,
+      "date": 133354015433958813
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/panel/panel.cfg",
+      "size": 20,
+      "date": 133354015433958813
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/sound/sound.xml",
+      "size": 163,
+      "date": 133354015433978734
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/soundai/soundai.xml",
+      "size": 179,
+      "date": 133354015433978734
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/systems.cfg",
+      "size": 5987,
+      "date": 133354015434551164
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/texture/thumbnail.JPG",
+      "size": 21580,
+      "date": 133354015434002710
+    },
+    {
+      "path": "SimObjects/Airplanes/hydrasims-pipersport/texture/thumbnail_small.JPG",
+      "size": 4488,
+      "date": 133354015434012611
+    }
+  ]
+}
